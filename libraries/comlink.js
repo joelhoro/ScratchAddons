@@ -4,6 +4,8 @@
   (global = global || self, factory(global.Comlink = {}));
 }(this, (function (exports) { 'use strict';
 
+                             Testing blabla
+                              
   /**
    * Copyright 2019 Google Inc. All Rights Reserved.
    * Licensed under the Apache License, Version 2.0 (the "License");
